@@ -31,3 +31,7 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# credential files
+firebase.json
+firebase_options.dart
